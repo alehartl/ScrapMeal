@@ -1,0 +1,13 @@
+body {background-color: #ECDB26;}
+
+.landing {
+    flex-direction: column;
+    justify-content: center;
+    height: 100%
+}
+
+.main-container {
+    height: 75%;
+    min-height: 75%;
+    max-height: 75%;
+}
