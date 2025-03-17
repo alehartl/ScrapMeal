@@ -11,6 +11,7 @@ import { MatIconModule } from '@angular/material/icon';
 import { AboutComponent } from './components/about/about.component';
 import { AppRoutingModule } from './app-routing.module';
 import { ChallengeComponent } from './components/challenge/challenge.component';
+import { PantryComponent } from './components/pantry/pantry.component';
 
 @NgModule({
   declarations: [
@@ -19,7 +20,8 @@ import { ChallengeComponent } from './components/challenge/challenge.component';
     NavbarComponent,
     FooterComponent,
     AboutComponent,
-    ChallengeComponent
+    ChallengeComponent,
+    PantryComponent
   ],
   imports: [
     BrowserModule,
