@@ -1,13 +1,16 @@
 button {
     margin-left: 60px;
     margin-right: 60px;
-    height: 40%;
-    width: 100px;
-    color: white;
-    background-color: #5ABCDE;
+    height: 100%;
+    width: 160px;
+    background-color: #239D6D;
     border-radius: 5px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 16px;
+}
+
+a {
+    color: black;
 }
 
 .bar {
